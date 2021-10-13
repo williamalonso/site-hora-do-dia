@@ -30,24 +30,24 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ### ✨ Sobre a construção do projeto tive que:
 
-- Alterar o layout por meio do CSS;
+- Alterar a cor de fundo por meio do JS;
 - Pesquisar em fóruns sobre determinados comandos JS;
 - Utilizar o JS para receber data do sistema;
 - Ajustar a responsividade para dispositivo móvel;
 - Adicionar tags semânticas em nosso HTML;
-- Atribuir um elemento à uma variável;
+- Alterar a imagem por meio do JS;
 
 ---
 
 ## 🙅 Instalações e usos
 
-Para acessar o site [clique aqui](https://controlador-de-video.vercel.app/)
+Para acessar o site [clique aqui](https://site-hora-do-dia.vercel.app/)
 
 Caso queira, clone ou faça o downlod desse repositório:
 
 ```
 # Clone o repositório
-$ git clone git@github.com:williamalonso/controlador-de-video.git
+$ git clone git@git@github.com:williamalonso/site-hora-do-dia.git
 ```
 
 <h3 align="center">William Alonso</h3>
